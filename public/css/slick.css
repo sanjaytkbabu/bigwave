@@ -238,3 +238,7 @@
     opacity: 1;
     content: '\f192';
   }
+
+  .footer-credits {
+    font-size: small;
+  }
